@@ -1,2 +1,2 @@
 # Form-Validation
-This Form Validation project uses HTML, CSS, and JavaScript to validate user inputs on the client side before submission.
+This Form Validation project uses HTML, CSS, and JavaScript to validate user inputs on the client side before submission. It checks for required fields, valid email format, minimum password length, and matching passwords. The form also includes a toggle to show/hide passwords for better usability. On successful validation, it displays a success message and a preview of the entered data. This project helps in understanding essential concepts like input validation, event handling, and DOM manipulation in web development.
